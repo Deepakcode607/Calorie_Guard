@@ -2,7 +2,7 @@
 ![Logo](https://i.ibb.co/BPSC0LG/Calorie-Guard.png)
 # Calorie Guard
 
-Maintenance Calorie Calculator and Food Calorie intake tracker App with AI Lens and AI FItness Assistant.
+Maintenance Calories Calculator and Food Calorie intake tracker App with AI Lens and AI FItness Assistant.
 
 ## 🛠 Skills
 Android Studio, Java, Firebase, API, Android Testing, Android Designing.
